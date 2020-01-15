@@ -1,2 +1,2 @@
-# Afghanistan_Provinces
+# Afghanistan Provinces
 Afghanistan Provinces in MySQL File. 
